@@ -1,6 +1,6 @@
-# Organizacion de Datos - 2ºC 2020
+# Organizacion de Datos - 2ºC 2020 - TP2
 
-__TP2-Catboost:__ El notebook con el que conseguimos el puntaje mas alto.
+__TP2-Catboost:__ El notebook con el que conseguimos el puntaje mas alto en Kaggle.
 
 __TP2:__ El notebook con Random Forest, XGBoost, Bayesian Ridge, Partial Least Squares Regression, LightGBM.
 
